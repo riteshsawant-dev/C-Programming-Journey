@@ -1,0 +1,2 @@
+#include <stdio.h>
+int main(void){int c;double a,b;scanf("%d",&c);switch(c){case 1:scanf("%lf",&a);if(a<0)puts("Invalid radius");else printf("Area: %.2f\n",3.14159*a*a);break;case 2:scanf("%lf%lf",&a,&b);if(a<0||b<0)puts("Invalid dimensions");else printf("Area: %.2f\n",a*b);break;case 3:scanf("%lf",&a);if(a<0)puts("Invalid side");else printf("Area: %.2f\n",a*a);break;default:puts("Invalid choice");}return 0;}
