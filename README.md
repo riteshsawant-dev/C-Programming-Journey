@@ -19,7 +19,7 @@ C-Programming-Journey/
 │   ├── 03_add_two_numbers.c
 │   ├── 04_subtract_numbers.c
 │   └── 05_multiply_numbers.c
-└── Day-02/
+├── Day-02/
     ├── 01_multiply_two_numbers.c
     ├── 02_multiplication_table.c
     ├── 03_divide_two_numbers.c
