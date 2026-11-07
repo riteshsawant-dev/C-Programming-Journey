@@ -1,55 +1,46 @@
-# C Programming Journey
+# Hi, I'm Ritesh Sawant!
 
-A beginner-friendly collection of C programs, organized day by day. Each day contains beginner-friendly practice programs.
+### Robotics & Automation Engineering Student | Aspiring Developer
 
-## Progress
+Welcome to my GitHub profile!
 
-- [x] Day 01 – C basics, output, and arithmetic
-- [x] Day 02 – Multiplication and division
-- [x] Day 03 – Decision making and conditional statements
-- [x] Day 04 – Loops, number patterns, and basic number operations (10 programs)
-- [x] Day 06 – User-defined functions, parameters, return values, and pointers (10 additional programs)
+I'm a Robotics and Automation student interested in programming, automation, robotics, and software development. I enjoy learning new technologies, building projects, and strengthening my technical skills.
 
-## Folder Structure
+### About Me
+- Robotics & Automation Engineering Student
+- Currently learning C Programming
+- Exploring robotics and automation technologies
+- Practising problem-solving through coding
+- Interested in software development and intelligent systems
 
-```text
-C-Programming-Journey/
-├── README.md
-├── Day-01/
-│   ├── 01_hello_world.c
-│   ├── 02_print_name.c
-│   ├── 03_add_two_numbers.c
-│   ├── 04_subtract_numbers.c
-│   └── 05_multiply_numbers.c
-├── Day-02/
-│   ├── 01_multiply_two_numbers.c
-│   ├── 02_multiplication_table.c
-│   ├── 03_divide_two_numbers.c
-│   └── 04_divide_decimal_numbers.c
-├── Day-03/ (30 decision-making programs)
-├── Day-04/ (10 loop and number-operation programs)
-└── Day-06/
-    ├── 01_even_or_odd_using_function.c
-    ├── 02_factorial_using_function.c
-    ├── 03_prime_number_using_function.c
-    ├── 04_largest_of_three_using_function.c
-    ├── 05_celsius_to_fahrenheit_function.c
-    ├── 06_rectangle_area_using_function.c
-    ├── 07_count_digits_using_function.c
-    ├── 08_reverse_number_using_function.c
-    ├── 09_gcd_using_function.c
-    └── 10_swap_two_numbers_using_function.c
-```
+### Technical Interests
+- C Programming
+- Robotics
+- Industrial Automation
+- Embedded Systems
+- Programming & Problem Solving
+- Data Structures and Algorithms
 
-See the [Day-03 folder](Day-03/), [Day-04 folder](Day-04/), and [Day-06 folder](Day-06/) for the programs.
+### Tools
+- Git & GitHub
+- Visual Studio Code
 
-## Compile and Run
+### Featured Project
 
-With GCC, compile a file using:
+**[C Programming Journey](https://github.com/riteshsawant-dev/C-Programming-Journey)**
 
-```bash
-gcc filename.c -o program
-./program
-```
+My day-wise collection of C programming exercises and practical coding examples.
 
-On Windows, run the compiled program with `program.exe`.
+### My Goals
+- Build strong programming fundamentals
+- Develop robotics and automation projects
+- Learn embedded systems
+- Explore real-world automation applications
+- Become a skilled Robotics & Automation Engineer
+
+### Connect With Me
+- GitHub: [@riteshsawant-dev](https://github.com/riteshsawant-dev)
+
+---
+
+**BUILD • CODE • AUTOMATE • INNOVATE**
