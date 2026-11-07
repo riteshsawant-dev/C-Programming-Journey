@@ -8,6 +8,7 @@ A beginner-friendly collection of C programs, organized day by day. Each day con
 - [x] Day 02 – Multiplication and division
 - [x] Day 03 – Decision making and conditional statements
 - [x] Day 04 – Loops, number patterns, and basic number operations (10 programs)
+- [x] Day 06 – User-defined functions, parameters, return values, and pointers (10 additional programs)
 
 ## Folder Structure
 
@@ -26,7 +27,7 @@ C-Programming-Journey/
 │   ├── 03_divide_two_numbers.c
 │   └── 04_divide_decimal_numbers.c
 ├── Day-03/ (30 decision-making programs)
-└── Day-04/
+├── Day-04/
     ├── 01_print_numbers_1_to_n.c
     ├── 02_print_even_numbers.c
     ├── 03_sum_of_natural_numbers.c
@@ -39,7 +40,7 @@ C-Programming-Journey/
     └── 10_prime_number_check.c
 ```
 
-See the [Day-03 folder](Day-03/) and [Day-04 folder](Day-04/) for the programs.
+See the [Day-03 folder](Day-03/), [Day-04 folder](Day-04/), and [Day-06 folder](Day-06/) for the programs.
 
 ## Compile and Run
 
